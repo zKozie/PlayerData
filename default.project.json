@@ -1,0 +1,20 @@
+{
+  "name": "PlayerData",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "PlayerData": {
+        "$path": "src/Server"
+      }
+    },
+    "ReplicatedStorage": {
+      "Shared": {
+        "$className": "Folder",
+        "$ignoreUnknownInstances": true,
+        "PlayerData": {
+          "$path": "src/Shared"
+        }
+      }
+    }
+  }
+}
