@@ -59,8 +59,10 @@ In your game's `wally.toml`:
 
 ```toml
 [dependencies]
-ProfileStore = "madstudioroblox/profilestore@^1.0.0"
 ByteNet = "ffrostflame/bytenet@^0.1.0"
+
+[server-dependencies]
+ProfileStore = "madstudioroblox/profilestore@^1.0.0"
 ```
 
 Then run:
