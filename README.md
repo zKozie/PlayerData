@@ -59,7 +59,7 @@ In your game's `wally.toml`:
 
 ```toml
 [dependencies]
-ByteNet = "ffrostflame/bytenet@^0.1.0"
+ByteNet = "ffrostflame/bytenet@0.4.6"
 
 [server-dependencies]
 ProfileStore = "lm-loleris/profilestore@1.0.3"
