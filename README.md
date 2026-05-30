@@ -62,7 +62,7 @@ In your game's `wally.toml`:
 ByteNet = "ffrostflame/bytenet@^0.1.0"
 
 [server-dependencies]
-ProfileStore = "madstudioroblox/profilestore@^1.0.0"
+ProfileStore = "lm-loleris/profilestore@1.0.3"
 ```
 
 Then run:
